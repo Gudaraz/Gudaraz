@@ -3,9 +3,9 @@
 <h3 align="center">Hello! I'm Rafael Montaner, a dedicated junior software developer with a strong legal background. My passion lies in combining my legal expertise with programming skills to create innovative solutions in the legal tech industry. Based in Chile, I'm eager to work in regions where the tech industry flourishes, offering exciting opportunities for growth and learning.</h3>
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 
-<img align="right" alt="Coding" width="400" src="https://komarev.com/ghpvc/?username=gudaraz&label=Profile%20views&color=0e75b6&style=flat"> 
+<img align="right" alt="Coding" width="400" src="https://komarev.com/ghpvc/?username=gudaraz&label=Profile%20views&color=0e75b6&style=flat">
 
-
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gudaraz" alt="gudaraz" /></a> </p>
 
 - 🔭 I’m currently working on Total Abogados, **developing LegalTech**
 
@@ -18,8 +18,6 @@
 - 📫 How to reach me **rafael.montaner@gmail.com**
 
 - ⚡ Fun fact **I'm a lawyer, but I started to work in software development.**
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gudaraz" alt="gudaraz" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
