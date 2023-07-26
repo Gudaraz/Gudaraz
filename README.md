@@ -3,7 +3,9 @@
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">Hello! I'm Rafael Montaner, a dedicated junior software developer with a strong legal background. My passion lies in combining my legal expertise with programming skills to create innovative solutions in the legal tech industry. Based in Chile, I'm eager to work in regions where the tech industry flourishes, offering exciting opportunities for growth and learning.</h3>
 
+
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
+
 
 - 🔭 I’m currently working on Total Abogados, **developing LegalTech**
 
