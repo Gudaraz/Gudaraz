@@ -1,7 +1,6 @@
 ![MasterHead](https://dxc.scene7.com/is/image/dxc/Low%20code%20screen:banner_desktop)
 <h1 align="center">Hi 👋, I'm Rafael</h1>
 <h3 align="center">Hello! I'm Rafael Montaner, a dedicated junior software developer with a strong legal background. My passion lies in combining my legal expertise with programming skills to create innovative solutions in the legal tech industry. Based in Chile, I'm eager to work in regions where the tech industry flourishes, offering exciting opportunities for growth and learning.</h3>
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 
 <img align="right" alt="Coding" width="400" src="https://komarev.com/ghpvc/?username=gudaraz&label=Profile%20views&color=0e75b6&style=flat">
 
