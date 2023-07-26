@@ -4,7 +4,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://komarev.com/ghpvc/?username=gudaraz&label=Profile%20views&color=0e75b6&style=flat">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gudaraz" alt="gudaraz" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gudaraz" alt="gudaraz" /> </p>
 
 - 🔭 I’m currently working on Total Abogados, **developing LegalTech**
 
