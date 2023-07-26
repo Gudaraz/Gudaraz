@@ -13,7 +13,7 @@
 
 - 📝 I regularly write articles on [Linkedin](Linkedin)
 
-- &#128218; I actually learning Python
+- 📓 I actually learning Python
 
 - 💬 Ask me about **Legaltech**
 
