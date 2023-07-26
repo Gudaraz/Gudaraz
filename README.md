@@ -5,7 +5,7 @@
 
 <img align="right" alt="Coding" width="400" src="https://komarev.com/ghpvc/?username=gudaraz&label=Profile%20views&color=0e75b6&style=flat"> 
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gudaraz" alt="gudaraz" /></a> </p>
+
 
 - 🔭 I’m currently working on Total Abogados, **developing LegalTech**
 
@@ -18,6 +18,8 @@
 - 📫 How to reach me **rafael.montaner@gmail.com**
 
 - ⚡ Fun fact **I'm a lawyer, but I started to work in software development.**
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gudaraz" alt="gudaraz" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
