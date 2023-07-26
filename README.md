@@ -9,9 +9,11 @@
 
 - 🔭 I’m currently working on Total Abogados, **developing LegalTech**
 
-- 👯 I’m looking to collaborate on IntellectIA **developing IA apps**
+- 👯 I’m looking to collaborate on Legaltech companies mostly **developing new tech**
 
 - 📝 I regularly write articles on [Linkedin](Linkedin)
+
+- U+1F4DA I actually learning Python
 
 - 💬 Ask me about **Legaltech**
 
