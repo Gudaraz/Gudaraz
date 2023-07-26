@@ -1,24 +1,34 @@
-# 💫 About Me:
-# Rafael Montaner - Junior Software Developer & Lawyer<br><br>## About Me<br><br>Hello! I'm Rafael Montaner, a dedicated junior software developer with a strong legal background. My passion lies in combining my legal expertise with programming skills to create innovative solutions in the legal tech industry. Based in Chile, I'm eager to work in regions where the tech industry flourishes, offering exciting opportunities for growth and learning.<br><br>## Technical Skills<br><br>- Programming Languages: Java, JavaScript (including EJS), Python (currently learning)<br>- Web Technologies: HTML, CSS, Spring Framework<br>- Database: SQL, MongoDB<br><br>## Experience<br><br>- **Total Abogados, Chile** (Current)<br>  - As a Junior Software Developer, I am actively involved in creating cutting-edge legal tech tools. Leveraging my proficiency in Java, Spring, and front-end technologies, I build innovative solutions to streamline legal processes and enhance efficiency for the firm and its clients.<br><br>## Projects and Aspirations<br><br>I'm particularly enthusiastic about exploring the realm of artificial intelligence (AI) and have recently embarked on a journey to master Python to work on AI applications. I firmly believe that AI has the potential to revolutionize the legal industry and elevate the delivery of legal services to new heights.<br><br>## Continuous Learning and Growth<br><br>My unwavering commitment to personal and professional growth drives me to continually seek opportunities for learning and stay abreast of the latest technologies and trends. I actively participate in a comprehensive development program, constantly honing my programming skills and staying ahead in the ever-evolving tech landscape.<br><br>## Open to New Opportunities<br><br>Although I find great fulfillment in my current role, I remain open to new horizons and exciting opportunities. I am eager to contribute my expertise in diverse environments, perpetually fostering my passion for development and legal tech.<br><br>## Contact<br><br>You can reach out to me via email at [rafael.montaner@gmail.com], or connect with me on [LinkedIn](https://www.linkedin.com/in/rafael-montaner-robles-6985236b/). I'm thrilled to discuss potential collaborations, projects, or opportunities.<br><br>Thank you for visiting my GitHub profile! I'm looking forward to connecting with like-minded professionals and embarking on transformative tech ventures together!<br>
+![MasterHead](https://dxc.scene7.com/is/image/dxc/Low%20code%20screen:banner_desktop)
+<h1 align="center">Hi 👋, I'm Rafael</h1>
+<h3 align="center">Hello! I'm Rafael Montaner, a dedicated junior software developer with a strong legal background. My passion lies in combining my legal expertise with programming skills to create innovative solutions in the legal tech industry. Based in Chile, I'm eager to work in regions where the tech industry flourishes, offering exciting opportunities for growth and learning.</h3>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=gudaraz&label=Profile%20views&color=0e75b6&style=flat" alt="gudaraz" /> </p>
 
-# 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Gudaraz&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Gudaraz&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gudaraz&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gudaraz" alt="gudaraz" /></a> </p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+- 🔭 I’m currently working on Total Abogados, **developing LegalTech**
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Gudaraz&limit=5&theme=radical&combine_all_yearly_contributions=true)
+- 👯 I’m looking to collaborate on IntellectIA **developing IA apps**
 
-### 😂 Random Dev Meme
-<img src="https://rm.up.railway.app/" width="512px"/>
+- 📝 I regularly write articles on [Linkedin](Linkedin)
 
----
-[![](https://visitcount.itsvg.in/api?id=Gudaraz&icon=9&color=0)](https://visitcount.itsvg.in)
+- 💬 Ask me about **Legaltech**
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 📫 How to reach me **rafael.montaner@gmail.com**
+
+- ⚡ Fun fact **I'm a lawyer, but I started to work in software development.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/rafael-montaner-robles-6985236b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rafael-montaner-robles-6985236b/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=gudaraz&show_icons=true&locale=en&layout=compact" alt="gudaraz" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gudaraz&show_icons=true&locale=en" alt="gudaraz" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gudaraz&" alt="gudaraz" /></p>
