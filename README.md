@@ -11,7 +11,6 @@
 ### 👨‍💻 About Me
 I am a **Licensed Attorney and Software Developer** specializing in legal operations transformation, process automation, and legal technology implementation. Currently working as an **Independent Legal Operations & Legal Tech Consultant** in Europe, I design and build systems—from workflow architecture and automated document generation to proprietary RAG deployments—bridging legal and technical teams through the full implementation cycle.
 
-🌍 **EU Citizen (Spanish Passport) | Available for Immediate Relocation**
 🗣️ **Languages:** Spanish (Native) | English (C1) | Russian (B2)
 
 <br>
