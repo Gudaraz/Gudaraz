@@ -16,13 +16,14 @@
 
 ## 👨‍💻 About Me
 
-I am a Licensed Attorney and Software Developer specializing in legal operations transformation, process automation, and legal technology implementation.
+I am a Licensed Attorney, Legal Engineer and Software Developer specializing in legal operations transformation, process automation, legal technology implementation and AI governance.
 
-Currently working as an Independent Legal Operations & LegalTech Consultant, I design and build systems—from workflow architecture and automated document generation to proprietary RAG deployments—bridging legal and technical teams throughout the full implementation cycle.
+As an Independent Legal Operations & LegalTech Consultant, I design and build systems—from workflow architecture and automated document generation to proprietary RAG deployments—bridging legal, compliance, business and technical teams throughout the full implementation cycle.
 
 - 🗣️ **Languages:** Spanish (Native) · English (C1) · Russian (B2)
 - 🇪🇺 **Mobility:** EU Citizen (Spanish passport) · Open to relocation within Europe
 - ⚖️ **Focus:** Legal Operations · LegalTech · AI Governance · Process Automation · Data Sovereignty
+- 📋 **Project Management:** Google Project Management Professional Certificate, September 2026
 
 ## 🏆 Key Milestones & Impact
 
@@ -42,7 +43,9 @@ Currently working as an Independent Legal Operations & LegalTech Consultant, I d
 
 - **Process Design:** Translating legal and operational requirements into BPMN diagrams, decision matrices, business rules, user stories and API blueprints.
 
-- **Software Development:** Expanding full-stack capability with Python, Django, PostgreSQL, JavaScript, React and Node.js.
+- **Project Delivery:** Applying Agile, Scrum, Kanban, stakeholder management and UAT governance to legal-tech implementation projects.
+
+- **Software Development:** Building full-stack capability with Python, Django, PostgreSQL, JavaScript, React and Node.js.
 
 ## 🛠️ Tech Stack
 
@@ -59,20 +62,17 @@ Currently working as an Independent Legal Operations & LegalTech Consultant, I d
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
 </p>
 
-## 📊 GitHub Analytics
+## 📊 GitHub Activity
 
-<p align="center">
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api?username=gudaraz&show_icons=true&theme=transparent&hide_border=true&title_color=3B82F6&text_color=E5E7EB&icon_color=60A5FA&include_all_commits=true&rank_icon=github"
-    alt="GitHub statistics for Rafael Montaner"
-  />
-  <img
-    height="180"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=gudaraz&layout=compact&theme=transparent&hide_border=true&title_color=3B82F6&text_color=E5E7EB"
-    alt="Most used programming languages"
-  />
-</p>
+My GitHub profile contains projects and experiments at the intersection of law, operations and technology:
+
+- Legal workflow and document automation
+- RAG architectures and AI governance
+- Python, Django, PostgreSQL and API development
+- Java, JavaScript, React and Node.js
+- Legal process design, CLM and data governance
+
+[Explore my GitHub profile →](https://github.com/gudaraz)
 
 ## 📫 Let's Connect
 
@@ -86,13 +86,13 @@ Currently working as an Independent Legal Operations & LegalTech Consultant, I d
   <a href="https://www.linkedin.com/in/rafaelmontaner">
     <img
       src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="Connect on LinkedIn"
+      alt="Connect with Rafael Montaner on LinkedIn"
     />
   </a>
   <a href="mailto:rafael.montaner@gmail.com">
     <img
       src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="Send an email"
+      alt="Send Rafael Montaner an email"
     />
   </a>
 </p>
